@@ -6,7 +6,7 @@ require (
 	webtyp.com/devbrowser v0.6.26
 	webtyp.com/env v0.1.5
 	webtyp.com/postgres v0.4.48
-	webtyp.com/sitec v0.2.100
+	webtyp.com/sitec v0.2.107
 	webtyp.com/widget v0.6.52
 )
 
@@ -36,7 +36,7 @@ require (
 	webtyp.com/font v0.0.5 // indirect
 	webtyp.com/html v0.0.34 // indirect
 	webtyp.com/image v0.1.16 // indirect
-	webtyp.com/js v0.1.6 // indirect
+	webtyp.com/js v0.1.8 // indirect
 	webtyp.com/json v0.5.40 // indirect
 	webtyp.com/keyring v0.2.9 // indirect
 	webtyp.com/lang v0.1.22 // indirect
